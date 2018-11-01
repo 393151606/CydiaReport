@@ -1,0 +1,9 @@
+Origin: lung
+Label: lung
+Suite: stable
+Version: 0.1
+Codename: lung
+Architectures: iphoneos-arm
+Components: main
+Description: lung repo!
+MD5Sum:
